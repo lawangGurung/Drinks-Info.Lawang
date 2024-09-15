@@ -20,9 +20,10 @@ we use Restsharp nuget package to handle requests and response and Newtonsoft.js
 
  ## Screen shots:
 
+![Screenshot from 2024-09-15 12-19-13](https://github.com/user-attachments/assets/07eab011-0822-4984-ab56-ae444f97f1f7)
 
+![Screenshot from 2024-09-15 12-19-47](https://github.com/user-attachments/assets/643d8448-d09d-41c0-afcd-157d2794c8cf)
 
-* ![App Screenshot]
 
 - Data is presented to user in Table format, using the external library Spectre.Console.
 - This app is beautified using Spectre.Console.
